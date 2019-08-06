@@ -1,0 +1,29 @@
+{
+    "global": {
+        "database": {
+            "source": {
+                "host": "",
+                "name": "",
+                "user": "",
+                "pass": "",
+                "prefix": ""
+            },
+            "destination": {
+                "host": "",
+                "name": "",
+                "user": "",
+                "pass": "",
+                "prefix": ""
+            }
+        },
+    
+        "filesystem": {
+            "source": {
+                "path": ""
+            },
+            "destination": {
+                "path": ""
+            }
+        }
+    }
+}
